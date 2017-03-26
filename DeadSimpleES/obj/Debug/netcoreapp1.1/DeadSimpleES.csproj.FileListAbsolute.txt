@@ -1,0 +1,6 @@
+D:\Sandbox\BatchMonitorSpike\DeadSimpleES\bin\Debug\netcoreapp1.1\DeadSimpleES.deps.json
+D:\Sandbox\BatchMonitorSpike\DeadSimpleES\bin\Debug\netcoreapp1.1\DeadSimpleES.dll
+D:\Sandbox\BatchMonitorSpike\DeadSimpleES\bin\Debug\netcoreapp1.1\DeadSimpleES.pdb
+D:\Sandbox\BatchMonitorSpike\DeadSimpleES\obj\Debug\netcoreapp1.1\DeadSimpleES.AssemblyInfo.cs
+D:\Sandbox\BatchMonitorSpike\DeadSimpleES\obj\Debug\netcoreapp1.1\DeadSimpleES.dll
+D:\Sandbox\BatchMonitorSpike\DeadSimpleES\obj\Debug\netcoreapp1.1\DeadSimpleES.pdb

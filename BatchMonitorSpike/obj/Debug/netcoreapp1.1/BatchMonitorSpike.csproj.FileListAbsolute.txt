@@ -1,0 +1,13 @@
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\BatchMonitorSpike.deps.json
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\BatchMonitorSpike.runtimeconfig.json
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\BatchMonitorSpike.runtimeconfig.dev.json
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\BatchMonitorSpike.dll
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\BatchMonitorSpike.pdb
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\BatchDomain.dll
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\DeadSimpleES.dll
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\BatchDomain.pdb
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\bin\Debug\netcoreapp1.1\DeadSimpleES.pdb
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\obj\Debug\netcoreapp1.1\BatchMonitorSpike.csprojResolveAssemblyReference.cache
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\obj\Debug\netcoreapp1.1\BatchMonitorSpike.AssemblyInfo.cs
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\obj\Debug\netcoreapp1.1\BatchMonitorSpike.dll
+D:\Sandbox\BatchMonitorSpike\BatchMonitorSpike\obj\Debug\netcoreapp1.1\BatchMonitorSpike.pdb
